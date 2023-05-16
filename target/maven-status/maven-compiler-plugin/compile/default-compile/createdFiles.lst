@@ -1,0 +1,12 @@
+com\movies\controllers\TicketController.class
+com\movies\model\MovieModel.class
+com\movies\MoviesApplication.class
+com\movies\model\TicketModel.class
+com\movies\services\implement\MovieImplement.class
+com\movies\controllers\MovieController.class
+com\movies\repository\TicketRepository.class
+com\movies\ServletInitializer.class
+com\movies\repository\MovieRepository.class
+com\movies\services\implement\TicketImplement.class
+com\movies\services\TicketService.class
+com\movies\services\MovieService.class
